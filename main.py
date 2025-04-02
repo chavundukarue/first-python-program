@@ -1,0 +1,1 @@
+#this expression is printing the data type of the variable city
